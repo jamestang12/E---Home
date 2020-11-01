@@ -3,3 +3,14 @@
 > Electronic Real Estate Network
 
 Functional real estate application build using Django, Postgres at the back and html/css Bootstrap for the front-end design
+
+## Tools
+
+- Django
+- Postgres
+- Javascript(ES6)
+- HTML
+- CSS
+- Bootstrap
+- Postman
+- Digital Ocean
